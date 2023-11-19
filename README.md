@@ -14,7 +14,7 @@ Created in Blender 3.6.5
 
 ## Future Development
 
-None
+I will finish the render fully, I was close to finishing but had issues with bleender crashing! And am looking into ram~. I wanted to submit it on time!
 
 ## Created by 
 
